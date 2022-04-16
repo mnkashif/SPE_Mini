@@ -1,2 +1,2 @@
 [ubuntu]
-172.16.134.87 ansible_user=azureuser
+20.40.48.32 ansible_user=azureuser
