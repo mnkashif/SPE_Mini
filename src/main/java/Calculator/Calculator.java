@@ -1,11 +1,10 @@
-package calculator;
+package Calculator;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
-import java.io.*;
 import java.lang.Math;
 
 public class Calculator {
