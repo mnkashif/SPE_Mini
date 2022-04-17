@@ -20,7 +20,7 @@ public class Calculator {
         do {
             System.out.println("Calculator-DevOps, Choose to perform operation");
             System.out.print("Press 1 to Add\nPress 2 to Subtract\nPress 3 to Multiply\nPress 4 to Divide\nPress 5 to Inverse\nPress 6 for Factorial\nPress 7 to Power\nPress 8 to find Square Root\nPress 9 to find Log\n" +
-                    "Press any other key to exit\nEnter your choice: ");
+                    "Press enter to exit\nEnter your choice: ");
             int choice;
             try {
                 choice = scanner.nextInt();
