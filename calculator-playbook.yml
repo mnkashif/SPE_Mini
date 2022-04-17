@@ -4,5 +4,5 @@
   tasks:
     - name: Pull image
       docker_image:
-        name: mnkashif/spe_mini
+        name: mnkashif/spe_mini:latest
         source: pull
