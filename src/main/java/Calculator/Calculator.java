@@ -18,9 +18,9 @@ public class Calculator {
         Scanner scanner = new Scanner(System.in);
         double number1, number2 = 0;
         do {
-            System.out.println("Calculator-DevOps, Choose which operation to perform");
-            System.out.print("Press 1 to Add\nPress 2 to Subtract\nPress 3 to Multiply\nPress 4 to Divide\nPress 5 to Inverse\nPress 6 for Factorial\nPress 7 to Power\nPress 8 to find Square Root\nPress 9 to find Log\n" +
-                    "Press enter to exit\nEnter your choice: ");
+            System.out.println("Welcome to Scientific Calculator, Choose which operation you want to carry");
+            System.out.print("Press 1 for Addition\nPress 2 for Subtraction\nPress 3 for Multiplication\nPress 4 for Division\nPress 5 for Inverse\nPress 6 for Factorial\nPress 7 for Power\nPress 8 for Square Root\nPress 9 to find Log\n" +
+                    "Press any key to exit\nEnter your choice: ");
             int choice;
             try {
                 choice = scanner.nextInt();
