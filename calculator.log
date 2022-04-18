@@ -1,46 +1,46 @@
-2022-04-18T03:27:52,112 [Calculator.java] [INFO] Calculator.Calculator [ADDITION] - 2.0, 2.0
-2022-04-18T03:27:52,115 [Calculator.java] [INFO] Calculator.Calculator [RESULT - ADDITION] - 4.0
-2022-04-18T03:27:52,115 [Calculator.java] [INFO] Calculator.Calculator [ADDITION] - 2.1, 3.2
-2022-04-18T03:27:52,115 [Calculator.java] [INFO] Calculator.Calculator [RESULT - ADDITION] - 5.300000000000001
-2022-04-18T03:27:52,116 [Calculator.java] [INFO] Calculator.Calculator [DIVISION] - 2.0, 2.0
-2022-04-18T03:27:52,116 [Calculator.java] [INFO] Calculator.Calculator [RESULT - DIVISION] - 1.0
-2022-04-18T03:27:52,116 [Calculator.java] [INFO] Calculator.Calculator [DIVISION] - 0.0, 0.0
-2022-04-18T03:27:52,116 [Calculator.java] [ERROR] Calculator.Calculator [EXCEPTION - DIVISION] - Cannot be divided by ZERO Case of NaN 0.0/0.0
-2022-04-18T03:27:52,117 [Calculator.java] [INFO] Calculator.Calculator [RESULT - DIVISION] - NaN
-2022-04-18T03:27:52,117 [Calculator.java] [INFO] Calculator.Calculator [DIVISION] - 1.0, 0.0
-2022-04-18T03:27:52,117 [Calculator.java] [ERROR] Calculator.Calculator [EXCEPTION - DIVISION] - Cannot be divided by ZERO Case of Positive Infinity 1.0/0.0
-2022-04-18T03:27:52,117 [Calculator.java] [INFO] Calculator.Calculator [RESULT - DIVISION] - Infinity
-2022-04-18T03:27:52,117 [Calculator.java] [INFO] Calculator.Calculator [DIVISION] - -1.0, 0.0
-2022-04-18T03:27:52,117 [Calculator.java] [ERROR] Calculator.Calculator [EXCEPTION - DIVISION] - Cannot be divided by ZERO Case of Negative Infinity -1.0/0.0
-2022-04-18T03:27:52,118 [Calculator.java] [INFO] Calculator.Calculator [RESULT - DIVISION] - -Infinity
-2022-04-18T03:27:52,118 [Calculator.java] [INFO] Calculator.Calculator [MULTIPLICATION] - 2.0, 2.0
-2022-04-18T03:27:52,118 [Calculator.java] [INFO] Calculator.Calculator [RESULT - MULTIPLICATION] - 4.0
-2022-04-18T03:27:52,118 [Calculator.java] [INFO] Calculator.Calculator [MULTIPLICATION] - 2.1, 3.2
-2022-04-18T03:27:52,118 [Calculator.java] [INFO] Calculator.Calculator [RESULT - MULTIPLICATION] - 6.720000000000001
-2022-04-18T03:27:52,119 [Calculator.java] [INFO] Calculator.Calculator [SUBTRACTION] - 2.0, 2.0
-2022-04-18T03:27:52,119 [Calculator.java] [INFO] Calculator.Calculator [RESULT - SUBTRACTION] - 0.0
-2022-04-18T03:27:52,119 [Calculator.java] [INFO] Calculator.Calculator [SUBTRACTION] - 2.1, 3.2
-2022-04-18T03:27:52,119 [Calculator.java] [INFO] Calculator.Calculator [RESULT - SUBTRACTION] - -1.1
-2022-04-18T03:27:52,119 [Calculator.java] [INFO] Calculator.Calculator [ADDITION] - 2.0, 2.0
-2022-04-18T03:27:52,119 [Calculator.java] [INFO] Calculator.Calculator [RESULT - ADDITION] - 4.0
-2022-04-18T03:27:52,120 [Calculator.java] [INFO] Calculator.Calculator [ADDITION] - 2.1, 3.2
-2022-04-18T03:27:52,120 [Calculator.java] [INFO] Calculator.Calculator [RESULT - ADDITION] - 5.300000000000001
-2022-04-18T03:27:52,120 [Calculator.java] [INFO] Calculator.Calculator [DIVISION] - 2.3, 1.3
-2022-04-18T03:27:52,120 [Calculator.java] [INFO] Calculator.Calculator [RESULT - DIVISION] - 1.769230769230769
-2022-04-18T03:27:52,120 [Calculator.java] [INFO] Calculator.Calculator [DIVISION] - 0.0, 0.0
-2022-04-18T03:27:52,120 [Calculator.java] [ERROR] Calculator.Calculator [EXCEPTION - DIVISION] - Cannot be divided by ZERO Case of NaN 0.0/0.0
-2022-04-18T03:27:52,121 [Calculator.java] [INFO] Calculator.Calculator [RESULT - DIVISION] - NaN
-2022-04-18T03:27:52,121 [Calculator.java] [INFO] Calculator.Calculator [DIVISION] - 1.0, 0.0
-2022-04-18T03:27:52,121 [Calculator.java] [ERROR] Calculator.Calculator [EXCEPTION - DIVISION] - Cannot be divided by ZERO Case of Positive Infinity 1.0/0.0
-2022-04-18T03:27:52,121 [Calculator.java] [INFO] Calculator.Calculator [RESULT - DIVISION] - Infinity
-2022-04-18T03:27:52,121 [Calculator.java] [INFO] Calculator.Calculator [DIVISION] - -1.0, 0.0
-2022-04-18T03:27:52,121 [Calculator.java] [ERROR] Calculator.Calculator [EXCEPTION - DIVISION] - Cannot be divided by ZERO Case of Negative Infinity -1.0/0.0
-2022-04-18T03:27:52,121 [Calculator.java] [INFO] Calculator.Calculator [RESULT - DIVISION] - -Infinity
-2022-04-18T03:27:52,121 [Calculator.java] [INFO] Calculator.Calculator [SUBTRACTION] - 2.0, 2.0
-2022-04-18T03:27:52,122 [Calculator.java] [INFO] Calculator.Calculator [RESULT - SUBTRACTION] - 0.0
-2022-04-18T03:27:52,122 [Calculator.java] [INFO] Calculator.Calculator [SUBTRACTION] - 2.1, 3.2
-2022-04-18T03:27:52,122 [Calculator.java] [INFO] Calculator.Calculator [RESULT - SUBTRACTION] - -1.1
-2022-04-18T03:27:52,122 [Calculator.java] [INFO] Calculator.Calculator [MULTIPLICATION] - 2.0, 2.0
-2022-04-18T03:27:52,122 [Calculator.java] [INFO] Calculator.Calculator [RESULT - MULTIPLICATION] - 4.0
-2022-04-18T03:27:52,122 [Calculator.java] [INFO] Calculator.Calculator [MULTIPLICATION] - 2.1, 3.2
-2022-04-18T03:27:52,122 [Calculator.java] [INFO] Calculator.Calculator [RESULT - MULTIPLICATION] - 6.720000000000001
+2022-04-18T03:33:45,062 [Calculator.java] [INFO] Calculator.Calculator [ADDITION] - 2.0, 2.0
+2022-04-18T03:33:45,065 [Calculator.java] [INFO] Calculator.Calculator [RESULT - ADDITION] - 4.0
+2022-04-18T03:33:45,065 [Calculator.java] [INFO] Calculator.Calculator [ADDITION] - 2.1, 3.2
+2022-04-18T03:33:45,065 [Calculator.java] [INFO] Calculator.Calculator [RESULT - ADDITION] - 5.300000000000001
+2022-04-18T03:33:45,066 [Calculator.java] [INFO] Calculator.Calculator [DIVISION] - 2.0, 2.0
+2022-04-18T03:33:45,066 [Calculator.java] [INFO] Calculator.Calculator [RESULT - DIVISION] - 1.0
+2022-04-18T03:33:45,066 [Calculator.java] [INFO] Calculator.Calculator [DIVISION] - 0.0, 0.0
+2022-04-18T03:33:45,066 [Calculator.java] [ERROR] Calculator.Calculator [EXCEPTION - DIVISION] - Cannot be divided by ZERO Case of NaN 0.0/0.0
+2022-04-18T03:33:45,066 [Calculator.java] [INFO] Calculator.Calculator [RESULT - DIVISION] - NaN
+2022-04-18T03:33:45,067 [Calculator.java] [INFO] Calculator.Calculator [DIVISION] - 1.0, 0.0
+2022-04-18T03:33:45,067 [Calculator.java] [ERROR] Calculator.Calculator [EXCEPTION - DIVISION] - Cannot be divided by ZERO Case of Positive Infinity 1.0/0.0
+2022-04-18T03:33:45,067 [Calculator.java] [INFO] Calculator.Calculator [RESULT - DIVISION] - Infinity
+2022-04-18T03:33:45,067 [Calculator.java] [INFO] Calculator.Calculator [DIVISION] - -1.0, 0.0
+2022-04-18T03:33:45,068 [Calculator.java] [ERROR] Calculator.Calculator [EXCEPTION - DIVISION] - Cannot be divided by ZERO Case of Negative Infinity -1.0/0.0
+2022-04-18T03:33:45,068 [Calculator.java] [INFO] Calculator.Calculator [RESULT - DIVISION] - -Infinity
+2022-04-18T03:33:45,068 [Calculator.java] [INFO] Calculator.Calculator [MULTIPLICATION] - 2.0, 2.0
+2022-04-18T03:33:45,068 [Calculator.java] [INFO] Calculator.Calculator [RESULT - MULTIPLICATION] - 4.0
+2022-04-18T03:33:45,068 [Calculator.java] [INFO] Calculator.Calculator [MULTIPLICATION] - 2.1, 3.2
+2022-04-18T03:33:45,069 [Calculator.java] [INFO] Calculator.Calculator [RESULT - MULTIPLICATION] - 6.720000000000001
+2022-04-18T03:33:45,069 [Calculator.java] [INFO] Calculator.Calculator [SUBTRACTION] - 2.0, 2.0
+2022-04-18T03:33:45,069 [Calculator.java] [INFO] Calculator.Calculator [RESULT - SUBTRACTION] - 0.0
+2022-04-18T03:33:45,069 [Calculator.java] [INFO] Calculator.Calculator [SUBTRACTION] - 2.1, 3.2
+2022-04-18T03:33:45,070 [Calculator.java] [INFO] Calculator.Calculator [RESULT - SUBTRACTION] - -1.1
+2022-04-18T03:33:45,070 [Calculator.java] [INFO] Calculator.Calculator [ADDITION] - 2.0, 2.0
+2022-04-18T03:33:45,071 [Calculator.java] [INFO] Calculator.Calculator [RESULT - ADDITION] - 4.0
+2022-04-18T03:33:45,071 [Calculator.java] [INFO] Calculator.Calculator [ADDITION] - 2.1, 3.2
+2022-04-18T03:33:45,071 [Calculator.java] [INFO] Calculator.Calculator [RESULT - ADDITION] - 5.300000000000001
+2022-04-18T03:33:45,071 [Calculator.java] [INFO] Calculator.Calculator [DIVISION] - 2.3, 1.3
+2022-04-18T03:33:45,071 [Calculator.java] [INFO] Calculator.Calculator [RESULT - DIVISION] - 1.769230769230769
+2022-04-18T03:33:45,072 [Calculator.java] [INFO] Calculator.Calculator [DIVISION] - 0.0, 0.0
+2022-04-18T03:33:45,072 [Calculator.java] [ERROR] Calculator.Calculator [EXCEPTION - DIVISION] - Cannot be divided by ZERO Case of NaN 0.0/0.0
+2022-04-18T03:33:45,072 [Calculator.java] [INFO] Calculator.Calculator [RESULT - DIVISION] - NaN
+2022-04-18T03:33:45,072 [Calculator.java] [INFO] Calculator.Calculator [DIVISION] - 1.0, 0.0
+2022-04-18T03:33:45,072 [Calculator.java] [ERROR] Calculator.Calculator [EXCEPTION - DIVISION] - Cannot be divided by ZERO Case of Positive Infinity 1.0/0.0
+2022-04-18T03:33:45,072 [Calculator.java] [INFO] Calculator.Calculator [RESULT - DIVISION] - Infinity
+2022-04-18T03:33:45,072 [Calculator.java] [INFO] Calculator.Calculator [DIVISION] - -1.0, 0.0
+2022-04-18T03:33:45,072 [Calculator.java] [ERROR] Calculator.Calculator [EXCEPTION - DIVISION] - Cannot be divided by ZERO Case of Negative Infinity -1.0/0.0
+2022-04-18T03:33:45,072 [Calculator.java] [INFO] Calculator.Calculator [RESULT - DIVISION] - -Infinity
+2022-04-18T03:33:45,073 [Calculator.java] [INFO] Calculator.Calculator [SUBTRACTION] - 2.0, 2.0
+2022-04-18T03:33:45,073 [Calculator.java] [INFO] Calculator.Calculator [RESULT - SUBTRACTION] - 0.0
+2022-04-18T03:33:45,073 [Calculator.java] [INFO] Calculator.Calculator [SUBTRACTION] - 2.1, 3.2
+2022-04-18T03:33:45,073 [Calculator.java] [INFO] Calculator.Calculator [RESULT - SUBTRACTION] - -1.1
+2022-04-18T03:33:45,073 [Calculator.java] [INFO] Calculator.Calculator [MULTIPLICATION] - 2.0, 2.0
+2022-04-18T03:33:45,074 [Calculator.java] [INFO] Calculator.Calculator [RESULT - MULTIPLICATION] - 4.0
+2022-04-18T03:33:45,074 [Calculator.java] [INFO] Calculator.Calculator [MULTIPLICATION] - 2.1, 3.2
+2022-04-18T03:33:45,074 [Calculator.java] [INFO] Calculator.Calculator [RESULT - MULTIPLICATION] - 6.720000000000001
