@@ -20,7 +20,7 @@ public class Calculator {
         do {
             System.out.println("Welcome to Scientific Calculator, Choose which operation you want to perform");
             System.out.print("Press 1 for Addition\nPress 2 for Subtraction\nPress 3 for Multiplication\nPress 4 for Division\nPress 5 for Inverse\nPress 6 for Factorial\nPress 7 for Power\nPress 8 for Square Root\nPress 9 to find Log\n" +
-                    "Press any key to exit\nEnter your choice: ");
+                    "Press any key to  exit\nEnter your choice: ");
             int choice;
             try {
                 choice = scanner.nextInt();
